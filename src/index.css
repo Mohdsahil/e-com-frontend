@@ -11,3 +11,17 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.list-card-title {
+  font-size: 1.2rem;
+}
+.price {
+  font-size: 1.rem;
+  letter-spacing: .1rem
+}
+.list-button-container {
+  display: contents;
+}
+.d-contents {
+  display: contents;
+}
